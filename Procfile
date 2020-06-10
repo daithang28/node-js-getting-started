@@ -1,1 +1,1 @@
-web: node myfirst.js
+web: node node.js
