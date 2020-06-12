@@ -10,6 +10,6 @@ function XuLyWEB(req, res) {
     + " <br> lan thu - " + lanthu
     );
     console.log("\n\t ...lan thu - " + lanthu);
-};
+}
 http.createServer(XuLyWEB).listen(port);
 console.log("Nodejs dang RUN o Server")
